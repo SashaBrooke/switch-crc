@@ -1,0 +1,9 @@
+# Build files
+*.o
+*.a
+*.so
+*.exe
+*.out
+
+# Specific executable for this project
+test_crc
